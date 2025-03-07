@@ -1,0 +1,9 @@
+index.html
+index.php
+default.conf
+robots.txt
+wp-config.php
+wp-admin/
+cgi-bin/
+logs/
+backup/

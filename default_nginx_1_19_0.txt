@@ -1,0 +1,14 @@
+index.html
+index.php
+nginx.conf
+default.conf
+robots.txt
+wp-config.php
+wp-admin/
+cgi-bin/
+logs/
+backup/
+cached/
+temp/
+debug.log
+server-status

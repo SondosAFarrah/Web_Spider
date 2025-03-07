@@ -1,0 +1,90 @@
+=== Default URLs Found ===
+http://testphp.vulnweb.com/index.php
+
+=== Non-Default URLs Found ===
+http://testphp.vulnweb.com/listproducts.php?artist=1
+http://testphp.vulnweb.com/categories.php
+http://testphp.vulnweb.com/guestbook.php
+http://testphp.vulnweb.com/disclaimer.php
+http://testphp.vulnweb.com/product.php?pic=1
+http://testphp.vulnweb.com/showimage.php?file=./pictures/7.jpg
+http://testphp.vulnweb.com/Details/color-printer/3/
+http://testphp.vulnweb.com/product.php?pic=2
+http://testphp.vulnweb.com/showimage.php?file=./pictures/3.jpg
+http://testphp.vulnweb.com/Mod_Rewrite_Shop/
+http://testphp.vulnweb.com/listproducts.php?cat=1
+http://testphp.vulnweb.com/listproducts.php?cat=3
+http://testphp.vulnweb.com/artists.php
+http://testphp.vulnweb.com/listproducts.php?artist=3
+http://testphp.vulnweb.com/listproducts.php?artist=2
+http://testphp.vulnweb.com/showimage.php?file=./pictures/4.jpg
+http://testphp.vulnweb.com/login.php
+http://testphp.vulnweb.com/artists.php?artist=1
+http://testphp.vulnweb.com
+http://testphp.vulnweb.com/showimage.php?file=./pictures/6.jpg
+http://testphp.vulnweb.com/product.php?pic=3
+http://testphp.vulnweb.com/listproducts.php?cat=2
+http://testphp.vulnweb.com/product.php?pic=5
+http://testphp.vulnweb.com/showimage.php?file=./pictures/1.jpg
+http://testphp.vulnweb.com/hpp/
+http://testphp.vulnweb.com/product.php?pic=6
+http://testphp.vulnweb.com/signup.php
+http://testphp.vulnweb.com?pp=12
+http://testphp.vulnweb.com/product.php?pic=4
+http://testphp.vulnweb.com/Details/network-attached-storage-dlink/1/
+http://testphp.vulnweb.com/listproducts.php?cat=4
+http://testphp.vulnweb.com/privacy.php
+http://testphp.vulnweb.com/artists.php?artist=2
+http://testphp.vulnweb.com/Details/web-camera-a4tech/2/
+http://testphp.vulnweb.com/showimage.php?file=./pictures/5.jpg
+http://testphp.vulnweb.com/product.php?pic=7
+http://testphp.vulnweb.com/AJAX/index.php
+http://testphp.vulnweb.com/artists.php?artist=3
+http://testphp.vulnweb.com/showimage.php?file=./pictures/2.jpg
+http://testphp.vulnweb.com/userinfo.php
+http://testphp.vulnweb.com/cart.php
+
+=== Cross Matrix Comparison ===
+                                                     Hashed Item  Default URL  Non-Default URL
+a3fce475ef4f4432e1c4b4f79f64b8e0b778966d0c1c16fe0922923d969da8db        False             True
+7c09633b7777bdf4aac3ab746c5a500c4832e027b54364a6d3d72fb78ffb1cf2        False             True
+3280557caa415c54ba0fd6725e423c2dcd6ac66fc43dba29024e8c1c40b2723b        False             True
+37ee42e8e10d317c4493bb27acb375306a95215b22e2db2d77e7377b5ab6c416        False             True
+195d99dacfac794852241840d34f7ff5075475f1a2393770f59ad501497382b6        False             True
+d1c45a178c2830164b33250ce40591a6c685b3a1b9dfe80d616cc0b878f643e0        False             True
+c3819614be4f730d192bd9997f726f380ec54199cf5c01879d3492948766c017        False             True
+52dd295714d338867607ac54ca8d72fc05156b666469b4d19ec88051303fb502        False             True
+b2d18626f0f0b75a9e649153b03f400e9e200d95cca375bb8e846aefaaa12181        False             True
+0224a39c4b0c592689002721e6e6e0c809da579fdb338839e460ef5ccd2d8491        False             True
+967197804df7f69317d0a6d5aed47b2fbab88e762d7cb3a00d4d71920827f522        False             True
+5e55c3ec819c35d653826abfae52a7ea7df1c53330857a76b76197695a2bbde8        False             True
+c789ad9d7b69bee699d248f2420f064a1292f1b784b7d86e9f2d56e1e52ab362        False             True
+5304e0614c8621cb12bb967fab2ab424c0bfa81a931edf0716477ab308e8b04a        False             True
+06057b17d6d5869ef5013e5d92a14b10c731eea1a0b28e6c91fe351412867a9f        False             True
+a51de6211847cc87a65f296394d77a59abe740380f5876773ee21fd7c862772b         True            False
+2104c4a2351dee3160ec20d5e1e9dcd901d35a31423e68e149f15bbccd832032        False             True
+986db4efb5222fb69930c95d830a3ba28387a466546e453e49599518f7771828        False             True
+02a69c5087cf037aaaba0ccb901315f1f9af66da0185c4eb426280d0668f3895        False             True
+7f424b60126f0426e2b56517b740687dbdd39543b2bfa60a8f563e39cec7e020        False             True
+e9467d9e55df9c8dd89de2fef597508a6735e399230ac6d5d1c31fc04fc502e4        False             True
+5507004c3a3ab6e0f442916a78c676cb1b5c83cacb3c0659b401916535268495        False             True
+ccb89ad15a9ad37da5ed8da7224c9a7012a33d07cbaf7126d044360f7a13df75        False             True
+4418d78255061243f2aa055546bb8fdcd1e9fb87e159ef4bd56c23e992a9ee49        False             True
+c09df570d596461750ea9f62bc89c9ec781b3ae7ec45d9cdf86339cac5fdca76        False             True
+f39f74c972a573c4a61702191862bc29a0c10dbbb86008a9a5a80760a319db33        False             True
+644a4e36050a11bb15bdaad9ee9710fab59b096e80d6b90b5f7620fd80540828        False             True
+6b181aab78b78a689ac29c4b48d3129b60b9cc558cdf13e2252a387b0c59f7b6        False             True
+e6e68e240689d61ee6b642b93fd622d17822698884ed2d55a30f0ac06a50f804        False             True
+aa862681895b4c86639aa61f000ec85106e516467fbeb95ac1f10bb0378e3302        False             True
+c8d2e5e29da65ea004efc610a3431ffcd45449c4f4dcac4b9ac3bf0edd4d87d9        False             True
+63c9de84d986c2962c7251c25f93e8e9b349b318a162b9a649d76d9989ba68c6        False             True
+4ccc27f22477d64dcb7912f97995fa4be879d82f7a3da159e5ca409502e8fd07        False             True
+846f09c33acbd261f103059bb5d6c3b1f993970eb8c292d9a2bc5fa6df069cf1        False             True
+01934592dee3a8d5bca61d3755187e5db2c5d8e6e134acd594a48fe49dfceb26        False             True
+9cc602998170fa140d2c42c8c56874a79930d7770842f76ec2132759a142672f        False             True
+321ed65a2c4fa4bd004bc15ee4b9c12fd6bc52e009c4bf17464e75380b6cefc1        False             True
+ebcae710c5fa99e8e5178acf05bb7bf4319bfc2cce6f5473cafe88419ce7aa12        False             True
+3703709ac4bf603e084091ffc5f256806dbd39f64616375e4e20e77c3cb95abe        False             True
+33600e61d32120f088d2bc000fdf82c99399ba5354f378ec0f304301d2cef1d9        False             True
+cf51d96be791df4fc92265c920fa1d2b8c7a9fefeb5720084926a66555950b9c        False             True
+360ef2993f20cb85b6d3e861163651ad70721edeb32a63b668ec758a0d43a3a0        False             True

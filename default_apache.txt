@@ -1,0 +1,12 @@
+index.html
+index.php
+server-status
+.htaccess
+robots.txt
+wp-config.php
+wp-admin/
+cgi-bin/
+logs/
+backup/
+uploads/
+temp/
